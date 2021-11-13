@@ -1,0 +1,8 @@
+.todo-list > li > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.todo-list button {
+  margin-left: 5px;
+}
